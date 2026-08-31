@@ -1,0 +1,6 @@
+{
+  "name": "P2P Mesh Network Engine",
+  "description": "A standalone Python implementation for decentralized, local-area Peer-to-Peer mesh networking and data sharding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
